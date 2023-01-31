@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TejasNachane
 - 👀 I’m interested in machine learning, Data science, front end and back end developer.
-- 🌱 I’m currently learning machine learning.
-- I have done internship on "web development" using html,css,javascript and learn about database(sql).
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python and machine learning.
+- 👍 I have done internship on "web development" using html,css,javascript and learn about database(sql).
+- 👨🏻‍💻 I have uploaded some of my college projects. 
 - 📫 How to reach me LinkedIn profile"https://www.linkedin.com/in/tejas-nachane-53324b1b8"
 
 <!---
